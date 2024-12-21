@@ -1,0 +1,10 @@
+import React from 'react';
+
+function Careers (){
+    return (
+        <div>
+            <h1>This is Careers Page</h1>
+        </div>
+    );
+}
+export default Careers;
